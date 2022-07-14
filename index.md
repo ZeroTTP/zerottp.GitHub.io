@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to ZeroTTP's personal site
 
 You can use the [editor on GitHub](https://github.com/ZeroTTP/zerottp.GitHub.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
